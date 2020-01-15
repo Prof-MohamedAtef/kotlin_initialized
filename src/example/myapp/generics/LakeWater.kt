@@ -1,4 +1,7 @@
 package example.myapp.generics
 
-class LakeWater {
+class LakeWater:WaterSupply(true) {
+    fun filter() {
+        needsProcessing = false
+    }
 }

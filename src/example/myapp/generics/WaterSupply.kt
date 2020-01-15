@@ -1,4 +1,3 @@
 package example.myapp.generics
 
-class WaterSupply {
-}
+open class WaterSupply (var needsProcessing: Boolean)

@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="516f28a8-a67f-43a0-a40e-e17a4795c9e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example/myapp/listeners/FishAction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example/myapp/Plecostomus.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/myapp/Plecostomus.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example/myapp/Shark.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/myapp/Shark.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example/myapp/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/myapp/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example/myapp/generics/Aquarium.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/myapp/generics/Aquarium.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example/myapp/generics/FishStoreWater.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/myapp/generics/FishStoreWater.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example/myapp/generics/LakeWater.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/myapp/generics/LakeWater.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example/myapp/generics/TapWater.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/myapp/generics/TapWater.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example/myapp/generics/WaterSupply.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/myapp/generics/WaterSupply.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     <configuration name="Unnamed" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
       <module name="kotlinProjects" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="Kotlin!" />
+      <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -83,14 +83,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="402" y="23" key="#Unnamed" timestamp="1578995516383">
+    <state x="402" y="23" key="#Unnamed" timestamp="1579126593393">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="402" y="23" key="#Unnamed/0.0.1366.728@0.0.1366.728" timestamp="1578995516383" />
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578995288158">
+    <state x="402" y="23" key="#Unnamed/0.0.1366.728@0.0.1366.728" timestamp="1579126593393" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579126587254">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1578995288158" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1579126587254" />
     <state x="478" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1579006736124">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

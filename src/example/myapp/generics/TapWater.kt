@@ -1,4 +1,7 @@
 package example.myapp.generics
 
-class TapWater {
+class TapWater:WaterSupply(true) {
+    fun addChemicalCleaners(){
+        needsProcessing=false
+    }
 }

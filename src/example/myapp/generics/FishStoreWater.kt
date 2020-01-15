@@ -1,4 +1,4 @@
 package example.myapp.generics
 
-class FishStoreWater {
+class FishStoreWater:WaterSupply(false) {
 }
